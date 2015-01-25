@@ -1,0 +1,15 @@
+{
+  "name": "reincarnate",
+  "version": "1.0.0",
+  "description": "restart self",
+  "main": "reincarnate.js",
+  "scripts": {
+    "test": "node testreincarnate.js"
+  },
+  "keywords": [
+    "restart",
+    "self"
+  ],
+  "author": "mhzedd@gmail.com",
+  "license": "ISC"
+}
